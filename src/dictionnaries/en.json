@@ -1,0 +1,15 @@
+{
+	"hero": {
+		"title": "Elevate Your Web Presence with Our Web Development Services.",
+		"paragraph": "We specialize in creating stunning websites and web applications tailored to your needs.",
+		"contactButton": "Contact Us",
+		"projectsButton": "Browse Projects"
+	},
+	"services": [
+		{
+			"name": "Web Development",
+			"description": "We create custom web applications and websites tailored to your unique business needs.",
+			"icon": "A"
+		}
+	]
+}

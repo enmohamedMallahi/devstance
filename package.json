@@ -12,7 +12,7 @@
     "@headlessui/react": "^1.7.17",
     "@heroicons/react": "^2.0.18",
     "axios": "^1.5.1",
-    "next": "latest",
+    "next": "^13.5.6",
     "react": "latest",
     "react-dom": "latest"
   },
